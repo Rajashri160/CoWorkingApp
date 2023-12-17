@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CoWorkingApp</string>
+    <string name="lblCreateAccount">Create an Account</string>
+    <string name="lblFullName">Full Name</string>
+    <string name="lblMobileNumber">Mobile number</string>
+    <string name="lblEmailId">Email ID</string>
+    <string name="lblExistingUser">Existing user?</string>
+    <string name="lblLogIn">Log In</string>
+    <string name="lblCoworking">Co-working</string>
+    <string name="lblMobileNoOrEmail">Mobile number or Email</string>
+    <string name="lblPassword">Password</string>
+    <string name="lblNewUser">New user?</string>
+    <string name="lblCreateAnAccount">Create an account</string>
+    <string name="lblBookingHistory">Booking history</string>
+    <string name="lblBookWorkStation">Book Work Station</string>
+    <string name="lblMeetingRoom">Meeting Room</string>
+    <string name="cd_previous">Previous</string>
+    <string name="cd_next">Next</string>
+
+</resources>
